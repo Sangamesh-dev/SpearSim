@@ -1,0 +1,53 @@
+# ── Environment & Secrets ─────────────────────────────────────
+.env
+backend/.env
+frontend/.env
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+*.log
+
+# ── Node / Frontend ───────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm
+*.local
+
+# ── Vite ──────────────────────────────────────────────────────
+frontend/.vite/
+
+# ── Docker ────────────────────────────────────────────────────
+*.dockerignore
+
+# ── OS ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Test / Sample Data ────────────────────────────────────────
+real.csv
+test_employees.csv
+
+# ── Misc ──────────────────────────────────────────────────────
+*.bak
+*.tmp
