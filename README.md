@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/9bf20a6c-b421-4383-8ddd-5d6aa9db87d1
+
 # SpearSim
 
 > **GDPR-compliant spear phishing simulation platform for enterprise security awareness training**
